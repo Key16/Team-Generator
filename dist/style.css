@@ -1,13 +1,17 @@
 h1{
-    background-color:rgba(115, 17, 196, 0.659);
+    background-color:rgb(102, 59, 221);
     height:200px;
     text-align: center;
     color: white;
     
 }
 
+body{
+    background-image: url("https://img.freepik.com/free-vector/office-background-video-conferencing_23-2148642204.jpg?w=5000");
+}
+
 .lilac {
-    background-color: rgba(137, 135, 235, 0.466);
+    background-color: rgba(175, 174, 235, 0.623);
     color:rgb(255, 255, 255);
 }
 

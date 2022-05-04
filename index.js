@@ -5,7 +5,7 @@ const fs = require('fs');
 
 //modules referenced
 
-const questions = require('./lib/question2');
+const questions = require('./lib/questions');
 
 
 

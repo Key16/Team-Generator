@@ -2,7 +2,16 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-This is a dynamic inquirer code that will ask a series of questions regarding your team profile, starting with yourself as a Manager, and then moving onto either an Engineer or Intern role. This will then create a unique profile card for each of the employees chosen. These employees and the manager will be generated onto a HTML file that has CSS already styled for use. The HTML is also responsive for mobile viewing. When clicking on the email, the users default email program will open and populate the To field of the email with the address. If you click on the 'go github' button, you are taken to the github website. If you click on the 'Search school'button you are also able to search on google for the interns school. Dynamic icons are also included for each role. 
+This is an application that will run in your command line and asks a series of questions regarding your team profile.
+
+It will start with the Manager details and then prompts to choose either an Engineer or Intern role. Once filled out, this will create a unique profile card for each of the employees. Validation is also included in the prompts to ensure correct information is filled out. 
+
+These employees and the manager will be generated onto a HTML file that has CSS already styled for use. The HTML is also responsive for mobile viewing. 
+
+When clicking on the email, the users default email program will open and populate the To field of the email with the address. If you click on the 'go github' button, you are taken to the github website. If you click on the 'Search school'button you are also able to search on google for the interns school. Dynamic icons are also included for each role. 
+
+![MyTeamimg](./assets/myTeamScreenshot.png)
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -20,9 +29,13 @@ npm i
 
 
 ## Usage
-How to use this code
+How to use this application
 
-Once modules are installed, please run 'npm start' to start the program. Inquirer package will load and you will be welcomed with a Manager welcome message. Please answer the questions related to the Manager details and proceed to answer the questions regarding the other employee roles. Once all questions are answered and no more employees need to be added, a message will appear in the console notifying that the team had been generated and the index.html file is ready. Head over to the /dist/index.html file to view the final look of the generated team.
+Once modules are installed, please run 'npm start' to start the program. Inquirer package will load and you will be welcomed with a Manager welcome message. 
+
+Please answer the questions related to the Manager details and proceed to answer the questions regarding the other employee roles. Once all questions are answered and no more employees need to be added, a message will appear in the console notifying that the team had been generated and the index.html file is ready. 
+
+Head over to the /dist/index.html file to view the final look of the generated team.
 ## Licenses
 This project is under the MIT License.
 

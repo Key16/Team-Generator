@@ -10,7 +10,11 @@ These employees and the manager will be generated onto a HTML file that has CSS 
 
 When clicking on the email, the users default email program will open and populate the To field of the email with the address. If you click on the 'go github' button, you are taken to the github website. If you click on the 'Search school'button you are also able to search on google for the interns school. Dynamic icons are also included for each role. 
 
+Video Walkthrough is [here]("https://www.loom.com/share/923c8f1337fd4fc5bb20341150c84f0c")
+
 ![MyTeamimg](./assets/MyTeamScreenshot.png)
+
+
 
 ## Table of Contents
 
